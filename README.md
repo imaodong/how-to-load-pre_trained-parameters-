@@ -1,1 +1,1 @@
-how to load pretrained parameters from HF ? There is a example !
+how to load pre-trained parameters from HF? There is an example!
